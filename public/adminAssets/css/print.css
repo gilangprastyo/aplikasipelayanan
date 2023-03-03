@@ -1,0 +1,12 @@
+
+@media print {
+    .sidebar, .h1{
+        visibility: hidden;
+    }
+    div.card-body{
+        height: 550px;
+        width: 550px;
+    }
+
+
+}
